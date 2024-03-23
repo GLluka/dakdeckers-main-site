@@ -406,7 +406,13 @@ button {
 .services_section {
     width: 100%;
     float: left;
-    padding-bottom: 90px;
+    padding-bottom: 40px;
+}
+
+.servicesTekst {
+    width: 100%;
+    float: left;
+    text-align: left;
 }
 
 .services_taital {
@@ -438,7 +444,7 @@ button {
 }
 
 .btn_main {
-    width: 170px;
+    width: 300px;
     margin: 0 auto;
     text-align: center;
 }
