@@ -294,7 +294,7 @@
         display: none;
     }
     .header_section {
-        background-image: url(../images/mobile-bg.png);
+        background-image: url(../images/achtergrond.jpeg);
         background-size: cover;
         padding: 0px;
     }
@@ -380,7 +380,7 @@
         padding-right: 15px;
     }
     .blog_section {
-        background-image: url(../images/blog-mobile-bg.png);
+        background-image: url(../images/achtergrond.jpeg);
         background-size: cover;
         padding: 50px 0px;
     }
@@ -493,7 +493,7 @@
         display: none;
     }
     .header_section {
-        background-image: url(../images/mobile-bg.png);
+        background-image: url(../images/achtergrond.jpeg);
         background-size: cover;
         padding: 0px; 
     }
@@ -578,7 +578,7 @@
         padding-right: 15px;
     }
     .blog_section {
-        background-image: url(../images/blog-mobile-bg.png);
+        background-image: url(../images/achtergrond.jpeg);
         background-size: cover;
         padding: 50px 0px;
     }
