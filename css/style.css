@@ -236,7 +236,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-image: url(../images/achtergrond.jpeg);
+    background-image: url(../images/achtergrondDonker1080.png);
     height: auto;
     background-size: 100%;
     padding: 0px 0px 20px 0px;
@@ -459,7 +459,7 @@ button {
     float: left;
     font-size: 16px;
     color: #ffffff;
-    background-color: #2b2278;
+    background-color: #000d10;
     text-align: center;
     padding: 10px 0px;
     border-radius: 30px;
@@ -470,7 +470,7 @@ button {
 
 .btn_main a:hover {
     color: #ffffff;
-    background-color: #000d10;
+    background-color: #2b2278;
 }
 
 .btn_main.active a {
@@ -823,7 +823,7 @@ button {
     float: left;
     font-size: 16px;
     color: #ffffff;
-    background-color: #2b2278;
+    background-color: #000d10;
     text-align: center;
     padding: 10px 0px;
     border-radius: 30px;
@@ -831,7 +831,7 @@ button {
 }
 
 .getquote_bt a:hover {
-    background-color: #000d10;
+    background-color: #2b2278;
     color: #ffffff;
 }
 
