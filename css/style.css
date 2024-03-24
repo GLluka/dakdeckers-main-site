@@ -362,7 +362,7 @@ button {
 .banner_taital {
     width: 100%;
     float: left;
-    font-size: 70px;
+    font-size: 90px;
     color: #ffffff;
     font-weight: bold;
     text-align: center;
@@ -895,7 +895,7 @@ button {
     padding: 7px;
 }
 .send_btn a:hover {
-    color: #ffffff;
+    color: #000000;
     background-color: #2b2278;
 }
 /* contact section end */
