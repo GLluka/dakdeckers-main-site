@@ -7,6 +7,11 @@
     .header-search {
         padding: 15px 0px;
     }
+    .header_section {
+        background-image: url(../images/achtergrondDonker-mid.png);
+        background-size: cover;
+        padding: 0px;
+    }
 }
 
 
@@ -196,6 +201,11 @@
     .input_btn_main {
         width: 60%;
     }
+    .header_section {
+        background-image: url(../images/achtergrondDonker-mid.png);
+        background-size: cover;
+        padding: 0px;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -294,7 +304,7 @@
         display: none;
     }
     .header_section {
-        background-image: url(../images/achtergrond.jpeg);
+        background-image: url(../images/achtergrondDonker-mid.png);
         background-size: cover;
         padding: 0px;
     }
