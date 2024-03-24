@@ -195,6 +195,11 @@ img {
     border: none !important;
 }
 
+.activeNav {
+    font-weight: bolder;
+
+}
+
 .badge {
     font-weight: 500;
 }
@@ -325,7 +330,7 @@ button {
 
 .menu_main li a:hover {
     color: #ffffff;
-    background-color: #2b2278;
+    background-color: #000;
 }
 
 .mb-lg-0,
@@ -357,7 +362,7 @@ button {
 .banner_taital {
     width: 100%;
     float: left;
-    font-size: 80px;
+    font-size: 70px;
     color: #ffffff;
     font-weight: bold;
     text-align: center;
