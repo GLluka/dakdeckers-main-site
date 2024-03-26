@@ -398,7 +398,7 @@ button {
 }
 
 .read_bt a:hover {
-    background-color: #2b2278;
+    background-color: #000;
     color: #ffffff;
 }
 
@@ -470,7 +470,7 @@ button {
 
 .btn_main a:hover {
     color: #ffffff;
-    background-color: #2b2278;
+    background-color: #000;
 }
 
 .btn_main.active a {
@@ -538,7 +538,7 @@ button {
 
 .readmore_bt a:hover {
     color: #ffffff;
-    background-color: #2b2278;
+    background-color: #000;
 }
 
 .about_img {
@@ -791,7 +791,7 @@ button {
 }
 
 .read_bt_1 a:hover {
-    background-color: #2b2278;
+    background-color: #000;
     color: #ffffff;
 }
 
@@ -831,7 +831,7 @@ button {
 }
 
 .getquote_bt a:hover {
-    background-color: #2b2278;
+    background-color: #000;
     color: #ffffff;
 }
 
@@ -896,7 +896,7 @@ button {
 }
 .send_btn a:hover {
     color: #000000;
-    background-color: #2b2278;
+    background-color: #000;
 }
 /* contact section end */
 
@@ -995,7 +995,7 @@ button {
 }
 
 .call_text a:hover {
-    color: #e27141;
+    color: #000;
 }
 
 
@@ -1022,7 +1022,7 @@ button {
 }
 
 .copyright_text a:hover {
-    color: #e27141;
+    color: #000;
 }
 
 
