@@ -252,6 +252,7 @@ button {
     text-align: center;
     padding: 20px 0px 20px 0px;
     backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
     
 }
 
@@ -283,6 +284,7 @@ input[type=submit]:hover {
     float: left;
     display: none;
     backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
 }
 
 .navbar-light .navbar-nav .nav-link {
