@@ -465,8 +465,6 @@ input[type=submit]:hover {
 }
 
 .services_img {
-    width: 100%;
-    float: left;
     text-align: center;
 }
 
@@ -1065,3 +1063,9 @@ input[type=submit]:hover {
     transition-delay: 600ms;
 }
 
+.pleaseCenter {
+    height: auto;
+    width: 75%;
+    text-align: center;
+    margin: 0 auto;
+}
